@@ -1,12 +1,13 @@
-<img src="assets/banner.png" alt="I build AI that holds up in production." width="100%">
+<img src="assets/banner.png" alt="I build AI that holds up in production. Manish R, Applied AI Engineer, Founder of Manyx Labs." width="100%">
 
 ### Hi, I'm Manish
 
 I'm an Applied AI Engineer in Bengaluru.
 I build production LLM systems end to end: multi-agent orchestration, RAG, evals, observability and deployment.
-I also run **Manyx Labs**, where I build AI products and systems for clients.
+I run **Manyx Labs**, where I build AI products and systems for clients.
 
-- **Now:** agentic workflows for hospitality operations at [Zo House](https://github.com/ZoHouse)
+- **Now:** building AI products and systems for clients at Manyx Labs
+- **Previously:** agentic workflows for hospitality operations at [Zo House](https://github.com/ZoHouse)
 - **Recently:** a multi-agent due diligence platform and a Bitcoin self-custody wallet (both client work under NDA)
 - **How I work:** evals and E2E tests before features, so things hold up in production
 
