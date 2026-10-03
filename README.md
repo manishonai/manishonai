@@ -17,14 +17,7 @@ Today I run **[Manyx Labs](https://github.com/manyxlabs)**, a small applied AI s
 - **Bitcoin self-custody wallet.** A browser extension with Taproot signing, hardened key storage and phishing-resistant approvals, backed by 1,900+ automated tests.
 - **AI memory layer.** Local-first memory that lets ChatGPT, Claude and Gemini share what they know about you across sessions.
 
-Most of this is client work under NDA, so the code is private.
-Happy to walk through any of it on a call.
-
-### How I work
-
-- If it isn't evaluated, it isn't done.
-- When data is missing, the system says "unknown". It never guesses a score.
-- Small, well-tested code beats clever code.
+Most of this is client work under NDA. Happy to walk through it on a call.
 
 ### Stack
 
