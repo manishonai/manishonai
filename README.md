@@ -4,9 +4,8 @@
 
 I'm an Applied AI Engineer in Bengaluru.
 I build production LLM systems end to end: multi-agent orchestration, RAG, evals, observability and deployment.
-I run **Manyx Labs**, where I build AI products and systems for clients.
 
-- **Now:** building AI products and systems for clients at Manyx Labs
+- **Now:** founder of **Manyx Labs**, building AI products and systems for clients
 - **Previously:** agentic workflows for hospitality operations at [Zo House](https://github.com/ZoHouse)
 - **Recently:** a multi-agent due diligence platform and a Bitcoin self-custody wallet (both client work under NDA)
 - **How I work:** evals and E2E tests before features, so things hold up in production
