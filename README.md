@@ -28,4 +28,4 @@ Most of this is client work under NDA. Happy to walk through it on a call.
 
 ### Building something with AI that has to work in production?
 
-[Book a call](https://calendly.com/manishonai) · [Portfolio](https://manishonai.vercel.app) · [LinkedIn](https://linkedin.com/in/manishonai) · [X](https://x.com/manishonai)
+[Book a call](https://calendly.com/manishonai) · [Portfolio](https://www.manishonai.in) · [LinkedIn](https://linkedin.com/in/manishonai) · [X](https://x.com/manishonai)
