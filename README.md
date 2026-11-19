@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="I build AI that holds up in production. Manish R, Applied AI Engineer, Bengaluru." width="100%">
+<img src="assets/banner-2026-11.png" alt="I build AI that holds up in production. Manish R, Applied AI Engineer, Bengaluru." width="100%">
 
 ### Hey, I'm Manish
 
