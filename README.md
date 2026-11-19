@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="I build AI that holds up in production. Manish R, Applied AI Engineer, Founder of Manyx Labs." width="100%">
+<img src="assets/banner.png" alt="I build AI that holds up in production. Manish R, Applied AI Engineer, Bengaluru." width="100%">
 
 ### Hey, I'm Manish
 
@@ -6,7 +6,6 @@ I build AI systems that keep working after the demo.
 
 For 3+ years I've shipped LLM products for teams in investment research, hospitality, fintech and Bitcoin.
 That means multi-agent pipelines, RAG and evals, plus the unglamorous infrastructure that keeps them running.
-Today I run **[Manyx Labs](https://github.com/manyxlabs)**, a small applied AI studio in Bengaluru.
 
 ### Things I've shipped
 
